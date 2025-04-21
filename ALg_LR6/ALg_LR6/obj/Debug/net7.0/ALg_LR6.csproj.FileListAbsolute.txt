@@ -1,0 +1,14 @@
+C:\Users\79033\source\repos\ALg_LR6\ALg_LR6\bin\Debug\net7.0\ALg_LR6.exe
+C:\Users\79033\source\repos\ALg_LR6\ALg_LR6\bin\Debug\net7.0\ALg_LR6.deps.json
+C:\Users\79033\source\repos\ALg_LR6\ALg_LR6\bin\Debug\net7.0\ALg_LR6.runtimeconfig.json
+C:\Users\79033\source\repos\ALg_LR6\ALg_LR6\bin\Debug\net7.0\ALg_LR6.dll
+C:\Users\79033\source\repos\ALg_LR6\ALg_LR6\bin\Debug\net7.0\ALg_LR6.pdb
+C:\Users\79033\source\repos\ALg_LR6\ALg_LR6\obj\Debug\net7.0\ALg_LR6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79033\source\repos\ALg_LR6\ALg_LR6\obj\Debug\net7.0\ALg_LR6.AssemblyInfoInputs.cache
+C:\Users\79033\source\repos\ALg_LR6\ALg_LR6\obj\Debug\net7.0\ALg_LR6.AssemblyInfo.cs
+C:\Users\79033\source\repos\ALg_LR6\ALg_LR6\obj\Debug\net7.0\ALg_LR6.csproj.CoreCompileInputs.cache
+C:\Users\79033\source\repos\ALg_LR6\ALg_LR6\obj\Debug\net7.0\ALg_LR6.dll
+C:\Users\79033\source\repos\ALg_LR6\ALg_LR6\obj\Debug\net7.0\refint\ALg_LR6.dll
+C:\Users\79033\source\repos\ALg_LR6\ALg_LR6\obj\Debug\net7.0\ALg_LR6.pdb
+C:\Users\79033\source\repos\ALg_LR6\ALg_LR6\obj\Debug\net7.0\ALg_LR6.genruntimeconfig.cache
+C:\Users\79033\source\repos\ALg_LR6\ALg_LR6\obj\Debug\net7.0\ref\ALg_LR6.dll
